@@ -2,8 +2,7 @@
 
 I've been learning to code under the standard "How do I make this happen / how to I fix these bugs?" mentality.
 But when someone once suggested writing a poem in code, I thought back to when I learned a year of Japanese in college.
-I've had an interest in Japanese culture/cultural works/language before that formal education, and something quite intriguing about
-Japanese is the ability for a kanji (a Japanese character adopted from Chinese characters) to have one meaning in the character,
+I've had an interest in Japanese culture/cultural works/language before that formal education, and something quite intriguing about the language is the ability for a kanji (a Japanese character adopted from Chinese characters) to have one meaning in the character,
 but list a separate smaller writing above called furigana which may convey a separate meaning. (Such as, per [Wikipedia](https://en.wikipedia.org/wiki/Furigana), an astronaut 
 writing the kanji for "Earth" but writing the meaning "hometown" above the character. Or even an opposite meaning, to indicate that 
 someone is lying or feeling conflicted about something/someone.) It's a potential added layer of depth to the language, a concept that I've always loved but is much harder to achieve in English. 
