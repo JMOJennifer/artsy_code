@@ -1,5 +1,4 @@
 # artsy_code
-Exploration of code as an alternative artistic medium.
 
 I've been learning to code under the standard "How do I make this happen / how to I fix these bugs?" mentality.
 But when someone once suggested writing a poem in code, I thought back to when I learned a year of Japanese in college.
